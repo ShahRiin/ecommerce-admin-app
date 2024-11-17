@@ -12,9 +12,9 @@ class NewProductPage extends StatefulWidget {
 }
 
 class _NewProductPageState extends State<NewProductPage> {
+ 
   @override
   void didChangeDependencies() {
-
     super.didChangeDependencies();
   }
   @override
